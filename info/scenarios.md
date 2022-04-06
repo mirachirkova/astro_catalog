@@ -14,18 +14,26 @@ Main menu -> Search page -> Objects -> Stars/Nebulas/Galaxies/Planets/Asteroids/
 
 5) Получение информации о конкретном объекте/явлении из отфильтрованной таблицы.
 Main menu -> Search page -> Objects -> Stars/Nebulas/Galaxies/Planets/Asteroids/Sattelites/Comets -> Фильтрация -> Object's page.
+
 Main menu -> Search page -> Phenomenons -> Фильтрация -> Object's page.
+
 Main menu -> Search page -> Objects -> Фильтрация -> Object's page.
+
 Main menu -> Search page -> Поиск -> Object's page.
 
 7) Получение информации о конкретном пользователе из списка пользователей.
 Main menu -> Members -> Member's page.
 
 8) Просмотр фотографии и информации о ней.
-Object's page -> Picture's page
+Object's page -> Picture's page.
 
 9) Получение информации о конкретном пользователе с помощью поиска конкретного ника.
-Main menu -> Members -> Поиск по конкретной строке, ищется полное совпадение -> Member's page
+Main menu -> Members -> Поиск по конкретной строке, ищется полное совпадение -> Member's page.
 ### Авторизованный пользователь
 1) Добавление фотографии.
+Удачное: Main menu -> Add photo -> Ввод никнейма, пароля, фотографии и объектов/явлений на ней -> Picture's page.
+Неудачное: Main menu -> Add photo -> Ввод никнейма, пароля, фотографии и объектов/явлений на ней -> Authorization failed.
+
 2) Добавление реакции.
+Удачное: Picture's page -> Ввод никнейма, пароля, типа реакции -> Picture's page.
+Неудачное: Picture's page -> Ввод никнейма, пароля, типа реакции -> Authorization failed.
